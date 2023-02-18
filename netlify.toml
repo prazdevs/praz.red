@@ -1,0 +1,7 @@
+[build]
+  command = "pnpm run generate"
+  publish = "dist"
+
+[[redirects]]
+  from = "/mastodon"
+  to = "https://hachyderm.io/@praz"
