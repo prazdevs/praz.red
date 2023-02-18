@@ -5,3 +5,11 @@
 [[redirects]]
   from = "/mastodon"
   to = "https://hachyderm.io/@praz"
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/prazdevs"
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/prazdevs/"
